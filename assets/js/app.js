@@ -14,3 +14,5 @@ console.log('%c Mis variables','color:green;', b);
 console.table({a,b,c})
 
 console.log(saludo)
+
+c = 'Hola'
