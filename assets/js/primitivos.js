@@ -35,5 +35,5 @@ let symbol2 = Symbol('a');
 
 console.log( typeof symbol1 );
 
-console.log(symbol1 ==symbol2);
+console.log(symbol1 == symbol2);
  

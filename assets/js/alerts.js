@@ -8,3 +8,4 @@ console.log('****' +  nombre + '****' );
 const seleccion = confirm('Está seguro de borrar esto?');
 console.log(seleccion);
 console.log( global );
+console.log( global );
