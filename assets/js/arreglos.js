@@ -6,7 +6,7 @@
 
 let videoJuegos = [ 'Mario 3', 'Megaman', 'Chrono Trigger' ];
 
-console.log(videoJuegos);
+//console.log(videoJuegos);
 
 let arregloCosas = [
     true,
@@ -14,5 +14,10 @@ let arregloCosas = [
     'Walter',
     function(){},
     ()=>{},
-    {a:1}
+    {a:1},
+    ['X', 'Megaman', 'Zero', 'Dr. Light']
 ]
+
+//console.log(arregloCosas[6][3]);
+let elemento = arregloCosas[6][3];
+console.log(elemento);
