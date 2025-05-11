@@ -20,3 +20,5 @@ nuevaLongitud = juegos.unshift('Fire Emblem');
 console.log('Nueva longitud:', nuevaLongitud);
 
 
+let juegoBorrado = juegos.pop();
+console.log({ juegoBorrado, juegos });
