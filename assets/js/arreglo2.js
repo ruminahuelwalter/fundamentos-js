@@ -22,3 +22,8 @@ console.log('Nueva longitud:', nuevaLongitud);
 
 let juegoBorrado = juegos.pop();
 console.log({ juegoBorrado, juegos });
+
+let pos =  1;
+
+let juegosBorrados = juegos.splice(pos, 2);
+console.log({juegoBorrado, juegos})
