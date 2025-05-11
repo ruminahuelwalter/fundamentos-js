@@ -27,3 +27,7 @@ let pos =  1;
 
 let juegosBorrados = juegos.splice(pos, 2);
 console.log({juegoBorrado, juegos})
+
+let metroIdIndex = juegos.indexOf('Metroid');
+console.log({ metroIdIndex });
+
