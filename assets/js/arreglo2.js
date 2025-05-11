@@ -16,3 +16,7 @@ let nuevaLongitud = juegos.push( 'F-Zero ');
 
 console.log('Nueva longitud:', nuevaLongitud);
 
+nuevaLongitud = juegos.unshift('Fire Emblem');
+console.log('Nueva longitud:', nuevaLongitud);
+
+
