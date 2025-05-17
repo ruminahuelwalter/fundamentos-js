@@ -22,3 +22,16 @@ const saludarFlecha2 = ( nombre ) => {
 
 saludarFlecha();
 saludarFlecha2('Walter');
+
+
+const sumar2 = (a, b) => a + b;
+
+sumar2(2,4);
+
+function getAleatorio(){
+     return Math.random();
+}
+
+const getAleatorio2 = () => Math.random();
+
+console.log(getAleatorio2());
